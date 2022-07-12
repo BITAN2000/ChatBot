@@ -1,0 +1,2 @@
+# ChatBot
+I have made a retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of approach to select the appropriate response. It is widely used in the industry to make goal-oriented chatbots where we can customize the tone and flow of the chatbot to drive our customers with the best experience.
